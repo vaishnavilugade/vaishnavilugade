@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Lugade</h1>
-<img align="right" src="https://wallpapertag.com/wallpaper/full/6/e/c/347101-white-background-hd-2633x1542-for-full-hd.jpg" top=70%   height="200"width="350">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavilugade&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavilugade" /> 
