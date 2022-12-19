@@ -1,12 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Vaishnavi Lugade</h1>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavilugade&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavilugade" /> 
-<img align="right" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif" top=70%   height="220"width="350"/></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavilugade&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavilugade" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
