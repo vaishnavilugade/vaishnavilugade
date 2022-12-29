@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Package main<br>import "fmt"<br>func main()<br>{<br>fmt.Printf("Hi 👋, I'm Vaishnavi Lugade.")<br>}</h1>
+<h1 align="left">Package main<br>import "fmt"<br>func main(){<br>fmt.Printf("Hi 👋, I'm Vaishnavi Lugade.")<br>}</h1>
 
 
 <h3 align="left">Connect with me:</h3>
