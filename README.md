@@ -1,22 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Lugade</h1>
-<style>
-   img { 
- 	padding: 5px; 
- 	margin: 5px; 
-} 
-set{
-  padding: 7px;
-  margin: 7px;
-}
-</style>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vaishnavilugade" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnavilugade" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/linkedin.com/in/vaishnavi-lugade-6351a8228" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vaishnavi-lugade-6351a8228" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20739578/vaishnavi-lugade" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20739578/vaishnavi-lugade" height="30" width="40" /></a>
-<a href="https://medium.com/@vaishnavilugade" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaishnavilugade" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vaishnavilugade" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavilugade" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vaishnavilugade" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vaishnavilugade" height="30" width="40" /></a>
+<a href="https://twitter.com/vaishnavilugade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnavilugade" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/linkedin.com/in/vaishnavi-lugade-6351a8228" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vaishnavi-lugade-6351a8228" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20739578/vaishnavi-lugade" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20739578/vaishnavi-lugade" height="30" width="40" /></a>
+<a href="https://medium.com/@vaishnavilugade" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaishnavilugade" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vaishnavilugade" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavilugade" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@vaishnavilugade" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vaishnavilugade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
