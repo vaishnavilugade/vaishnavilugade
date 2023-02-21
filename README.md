@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012">, I'm Vaishnavi Lugade</h1>
+<h1 align="center">Hi<a href="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012"></a>, I'm Vaishnavi Lugade</h1>
 
 
 
