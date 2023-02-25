@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Vaishnavi Lugade</h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
