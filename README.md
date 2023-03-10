@@ -4,9 +4,9 @@
 
 <h3 align="left">About me:</h3>
 
-<h4 align="left">👩🏻‍🎓 Student at SKNSCOE Pandharpur.</h4>
-<h4 align="left">🌱 I'm Currently learning Golang.</h4>
-<h4 align="left">🖥️ I like writing code and reading about it.</h4>
+<h4 align="left">💠 👩🏻‍🎓 Student at SKNSCOE Pandharpur.</h4>
+<h4 align="left">💠 🌱 I'm Currently learning Golang.</h4>
+<h4 align="left">💠 🖥️ I like writing code and reading about it.</h4>
 
 
 <h3 align="left">Connect with me:</h3>
