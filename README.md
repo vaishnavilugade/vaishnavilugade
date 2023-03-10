@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Lugade.</h1>
 
-<h3 align="left">ABOUT ME:</h3>
+<h3 align="left">About me:</h3>
 
 <h4 align="left">👩🏻‍🎓 Student at SKNSCOE Pandharpur.</h4>
 <h4 align="left">🌱 I'm Currently learning Golang.</h4>
