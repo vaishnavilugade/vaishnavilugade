@@ -5,7 +5,6 @@
 <h4 align="left">• 🖥️ I like writing code and reading about it.</h4>
 
 
-
 <h3 align="left">Connect with me:</h3> 
 
 <p align="left">
