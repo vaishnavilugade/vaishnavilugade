@@ -3,15 +3,6 @@
 <h4 align="left">• 👩🏻‍🎓 Student at SKNSCOE Pandharpur.</h4>
 <h4 align="left">• 🌱 I'm Currently learning Something Cool.</h4>
 <h4 align="left">• 🖥️ I like writing code and reading about it.</h4>
-
-
-
-
-
-
-
-
-
 <h3 align="left">Connect with me:</h3> 
 
 <p align="left">
