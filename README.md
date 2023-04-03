@@ -12,7 +12,7 @@
 <h3 align="left">ABOUT ME:</h3>
 <h1> </h1>
 <h4 align="left">• 👩🏻‍🎓 Student at SKNSCOE Pandharpur.</h4>
-<h4 align="left">• 🌱 I'm Currently learning Golang.</h4>
+<h4 align="left">• 🌱 I'm Currently learning Something cool.</h4>
 <h4 align="left">• 😄 Pronouns : she/her </h4>
 <h4 align="left">• 🖥️ I like writing code and reading about it.</h4>
 
