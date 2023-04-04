@@ -9,7 +9,7 @@
 </p>
 
 
-<h3 align="left"><img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="20" width="30" >ABOUT ME:</h3>
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > ABOUT ME:</h3>
 <h1> </h1>
 <h4 align="left">• 👩🏻‍🎓 Student at SKNSCOE Pandharpur.</h4>
 <h4 align="left">• 🌱 I'm Currently learning Something cool.</h4>
@@ -17,8 +17,9 @@
 <h4 align="left">• 🖥️ I like writing code and reading about it.</h4>
 
 
+<h1>    </h1>
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif"  height="20" width="45" >Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaishnavilugade" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnavilugade" height="30" width="70" /></a>
   <a href="https://linkedin.com/in/linkedin.com/in/vaishnavi-lugade-6351a8228" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vaishnavi-lugade-6351a8228" height="30" width="70" /></a>
@@ -28,8 +29,9 @@
 <a href="https://www.hackerearth.com/@vaishnavilugade" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vaishnavilugade" height="30" width="70" /></a>
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="40"/>              </a>      <a href="https://golang.org" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="70" height="40"/> </a>    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="40"/> </a>    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="40"/> </a>    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="40"/> </a>    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="40"/> </a></p>
+<h1> </h1>
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > LANGUAGES AND TOOLS:</h3>
+<p align="left"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="40"/>              </a>   
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="70" height="40"/> </a>    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="40"/> </a>    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="40"/> </a>    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="40"/> </a>    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="40"/> </a>      <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://tse3.mm.bing.net/th?id=OIP.H8U_xMCC16OzD9EwvXg64gHaHa&pid=Api&P=0" alt="vscode" width="35" height="40"/></a> </p>
 
     
