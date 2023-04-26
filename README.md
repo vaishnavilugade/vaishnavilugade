@@ -26,7 +26,8 @@
 <a href="https://medium.com/@vaishnavilugade" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaishnavilugade" height="30" width="70" /></a>
 <a href="https://www.hackerrank.com/vaishnavilugade" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavilugade" height="30" width="70" /></a> 
  <a href="https://www.hackerearth.com/@vaishnavilugade" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vaishnavilugade" height="30" width="70" /></a>      
-<a href="https://leetcode.com/vaishnavilugade/" target="blank"><img class="set" align="center" src="https://tse2.mm.bing.net/th?id=OIP.L2Jfuatqty2XAIUqYnr_pgHaHa&pid=Api&P=0" alt="@vaishnavilugade" height="30" width="40" /></a>
+<a href="https://leetcode.com/vaishnavilugade/" target="blank"><img class="set" align="center" display:inline src="https://tse2.mm.bing.net/th?id=OIP.L2Jfuatqty2XAIUqYnr_pgHaHa&pid=Api&P=0" alt="@vaishnavilugade" height="30" width="40"  /></a>
+   <a href="https://www.codeforces.com/profile/vaishnavilugade" target="blank"><img class="set"  align="center"   display=inline src="https://lh3.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=s180" alt="@vaishnavilugade" height="40" width="50" /></a>
 </p>
 
 <h1> </h1>
