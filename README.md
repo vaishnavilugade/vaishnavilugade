@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/stars/vaishnavilugade?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
-
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > ABOUT ME:</h3>
 <h1> </h1>
 <p align="left">• 👩🏻‍🎓 Student at<strong> SKNSCOE Pandharpur.</strong></p>
