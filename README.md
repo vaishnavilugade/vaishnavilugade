@@ -7,12 +7,12 @@
 
 
 
+
 <h1 align="center">Hi <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Vaishnavi Lugade.</h1>
 <p align="center">
   <img src="https://gpvc.arturio.dev/vaishnavilugade" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=vaishnavilugade&style=flat&color=brightgreen"> •    -->
-  <a href="https://user-badge.committers.top/india_private/vaishnavilugade"><img src="https://user-badge.committers.top/india_private/vaishnavilugade.svg"></a>  •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vaishnavilugade?label=Followers&style=social"> •
+  <a href="https://user-badge.committers.top/india_private/vaishnavilugade"><img src="https://user-badge.committers.top/india_private/vaishnavilugade.svg"></a>  •
   <img src="https://img.shields.io/github/stars/vaishnavilugade?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
