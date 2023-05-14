@@ -45,7 +45,7 @@
 <h1></h1>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilugade&" alt="vaishnavilugade" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilugade&" alt="vaishnavilugade" /></p>
 
 
     
