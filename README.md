@@ -40,14 +40,10 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="40"/> </a>  &nbsp; 
  <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://tse3.mm.bing.net/th?id=OIP.H8U_xMCC16OzD9EwvXg64gHaHa&pid=Api&P=0" alt="vscode" width="40" height="40"/></a>  
 <a href="https://css.com" target="_blank" rel="noreferrer"> <img class="img" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" alt="css" width="80" height="40"/> </a>   
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img class="img" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github" width="40" height="40"/>    </a> </p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img class="img" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github" width="40" height="40"/>    </a> 
+</p>
+<h1></h1>
 
-
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavilugade&show_icons=true&locale=en" alt="vaishnavilugade" />&nbsp;&nbsp;
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilugade&" alt="vaishnavilugade" /></p>
 
