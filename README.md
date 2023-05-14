@@ -9,10 +9,10 @@
 
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > ABOUT ME:</h3>
 <h1> </h1>
-<p align="left">• 👩🏻‍🎓 Student at<strong> SKNSCOE Pandharpur.</strong></p>
-<p align="left">• 🌱 I'm Currently <strong>learning</strong> Something <strong>cool.</strong></p>
-<p align="left">• 😄 Pronouns : <strong>she/her</strong></p>
-<p align="left">• 🖥️ I like <strong>writing</strong> code and <strong>reading</strong> about it.</p>
+<p align="left">• 👩🏻‍🎓 Student at<strong> SKNSCOE Pandharpur.<br>
+• 🌱 I'm Currently <strong>learning</strong> Something <strong>cool.<br>
+  • 😄 Pronouns : <strong>she/her</strong><br>
+  • 🖥️ I like <strong>writing</strong> code and <strong>reading</strong> about it.</strong></p>
 
 
 
