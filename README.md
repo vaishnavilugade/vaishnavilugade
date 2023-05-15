@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi<img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Vaishnavi Lugade.</h1>
 <p align="center">
   <img src="https://gpvc.arturio.dev/vaishnavilugade" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
@@ -8,9 +5,8 @@
   <a href="https://user-badge.committers.top/india_private/vaishnavilugade"><img src="https://user-badge.committers.top/india_private/vaishnavilugade.svg"></a>  •
   <img src="https://img.shields.io/github/stars/vaishnavilugade?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
-
-<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > ABOUT ME:</h3>
 <h1> </h1>
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > ABOUT ME:</h3>
 <p align="left">• 👩🏻‍🎓 Student at<strong> SKNSCOE</strong> Pandharpur.</p>
  <p align="left"> • 🌱 I'm Currently <strong>learning</strong> Something <strong>cool.</p>
  <p align="left"> • 😄 Pronouns : <strong>she/her</strong></p>
