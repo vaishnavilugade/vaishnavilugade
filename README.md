@@ -60,7 +60,7 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilugade&" alt="vaishnavilugade" width="60%" ><br><br><br><br><br><br><br><br><br><br>
 
 
-<h1 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..........<img src="https://tse4.mm.bing.net/th?id=OIP.g0ogKG-Xq19ibRjdUx-_vwHaHP&pid=Api&P=0&h=180"  height="20" width="25" >Your favorite repositories deserve a star!<img src="https://tse4.mm.bing.net/th?id=OIP.g0ogKG-Xq19ibRjdUx-_vwHaHP&pid=Api&P=0&h=180"  height="20" width="25" >..........</h1>
+<h1 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..........<img src="https://tse4.mm.bing.net/th?id=OIP.g0ogKG-Xq19ibRjdUx-_vwHaHP&pid=Api&P=0&h=180"  height="25" width="25" >Your favorite repositories deserve a star!<img src="https://tse4.mm.bing.net/th?id=OIP.g0ogKG-Xq19ibRjdUx-_vwHaHP&pid=Api&P=0&h=180"  height="25" width="25" >..........</h1>
 
 
 
