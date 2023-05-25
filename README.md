@@ -51,7 +51,7 @@
  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=vaishnavilugade&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white" alt="vaishnavi's Github Stats" width="60%">
   
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavilugade" width="37%" alt="vaishnavi's Top Languages">
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilugade&" alt="vaishnavilugade" width="60%" ><br><br><br><br><br><br><br><br><br><br>
 <h1></h1>
