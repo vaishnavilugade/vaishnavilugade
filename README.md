@@ -1,5 +1,4 @@
 <h1 align="center">Hi<img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Vaishnavi Lugade.</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaishnavilugade&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavilugade" />•  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vaishnavilugade?label=Followers&style=social"> •
