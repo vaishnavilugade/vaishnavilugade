@@ -13,7 +13,7 @@
  
  <p align="left"> • 🌱 I'm Currently <strong>learning</strong> Something <strong>cool.</strong></p>
  <p align="left"> • 😄 Pronouns : <strong>she/her</strong></p>
- <p align="left"> • 🖥️ I like writing <strong>code</strong> and reading about it.</p>
+ <p align="left"> • 🖥️ Always intrested in <strong>Coding</strong> & new learnings.</p>
 
 
 <h1>    </h1>
@@ -55,7 +55,8 @@
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilugade&" alt="vaishnavilugade" width="60%" ><br><br><br><br><br><br><br><br><br><br>
 <h1></h1>
-
+<h2 align="center">
+  Thank You</h2>
 
 
 
