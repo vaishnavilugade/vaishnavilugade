@@ -15,6 +15,7 @@
 
 
 
+
 <h1 align="center">Hi<img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Vaishnavi Lugade.</h1>
 
 <p align="center">
@@ -31,6 +32,8 @@
  <p align="left"> • 🌱 I'm Currently <strong>learning</strong> Something <strong>cool.</strong></p>
  <p align="left"> • 😄 Pronouns : <strong>she/her</strong></p>
  <p align="left"> • 🖥️ Always intrested in <strong>Coding</strong> & new learnings.</p>
+ <p align="left">🔭I'm Currently Working on <strong>Cancer Detection Using ML.</strong></p>
+ <p align="left">💬 Ask me about <strong> Java,Python,HTML,CSS,SQL.</strong></p>
 
 
 <h1>    </h1>
