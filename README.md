@@ -55,7 +55,7 @@
 </p>
 <h1></h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaishnavilugade)](https://github.com/vaishnavilugade/github-profile-trophy)
 
 <h1></h1>
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="25" > ACTIVITY:</h3>
