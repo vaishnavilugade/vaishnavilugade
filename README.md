@@ -56,7 +56,7 @@
 <h1></h1>
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="25" > ACTIVITY:</h3>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=vaishnavilugade&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white" alt="vaishnavi's Github Stats" width="60%">
   
