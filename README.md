@@ -53,10 +53,13 @@
 <a href="https://css.com" target="_blank" rel="noreferrer"> <img class="img" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" alt="css" width="80" height="40"/> </a>   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img class="img" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github" width="40" height="40"/>    </a> 
 </p>
-<h1></h1>
 
+
+<h1></h1>
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > GITHUB PROFILE TROPHY:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=vaishnavilugade&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=vaishnavilugade&column=8&no-frame=true"/>
+ 
 </a>
 
 <h1></h1>
