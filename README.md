@@ -58,7 +58,7 @@
 <h1></h1>
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > GITHUB PROFILE TROPHY:</h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=1050 src="https://github-profile-trophy.vercel.app/?username=vaishnavilugade&column=8&no-frame=true"/>
+  <img width=1100 src="https://github-profile-trophy.vercel.app/?username=vaishnavilugade&column=8&no-frame=true"/>
  
 </a>
 
