@@ -54,9 +54,10 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img class="img" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github" width="40" height="40"/>    </a> 
 </p>
 <h1></h1>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<h1></h1>
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="25" > ACTIVITY:</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=vaishnavilugade&show_icons=true&title_color=blue&icon_color=blue&text_color=black&bg_color=white" alt="vaishnavi's Github Stats" width="60%">
   
