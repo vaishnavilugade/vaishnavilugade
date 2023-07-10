@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi<img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Vaishnavi Lugade.</h1>
 
 <p align="center">
@@ -10,7 +11,7 @@
 
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > ABOUT ME:</h3>
 
- <p align="left"> • 👩🏻‍🎓 Student at <strong>SKNSCOE</strong> Pandharpur,Maharashtra,India.</p>
+ <p align="left"> • 👩🏻‍🎓 Student at <strong>SKNSCOE</strong> Pandharpur,<strong>India.</strong></p>
   <p align="left"> • 🌱 I'm Currently <strong>learning</strong> Something <strong>cool.</strong></p>
   <p align="left">• 💬 Ask me about <strong> Java , Python , HTML , CSS , SQL.</strong></p>
   <p align="left"> • 😄 Pronouns : <strong>she / her / hers</strong></p>
