@@ -67,9 +67,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavilugade" width="37%" alt="vaishnavi's Top Languages">
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilugade&" alt="vaishnavilugade" width="60%" ><br><br><br><br><br><br><br><br><br><br>
-<h1></h1>
-<h2 align="center">
-  Thank You</h2>
+
+
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
