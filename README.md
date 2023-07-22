@@ -9,6 +9,7 @@
 
 
 
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <h1 align="center">Hi<img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Vaishnavi Lugade.</h1>
 
