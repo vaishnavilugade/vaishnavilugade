@@ -6,7 +6,7 @@
   <a href="https://user-badge.committers.top/india_private/vaishnavilugade"><img src="https://user-badge.committers.top/india_private/vaishnavilugade.svg"></a>  •
   <img src="https://img.shields.io/github/stars/vaishnavilugade?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
-<img align="right" alt="Coding" Width="450" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" width="48px"/>
+<img align="right" alt="Coding" Width="400" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif" width="48px"/>
 
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > ABOUT ME:</h3>
 
