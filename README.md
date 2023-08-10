@@ -19,7 +19,7 @@
  
   
  <p align="left"> • 🖥️ Always intrested in <strong>Coding</strong> & new learnings.</p>
-  <p align="left">• 🚀 Curious to dive deeper into my story <strong>?</strong> Get to know me better <a href="https://vaishnavilugade.github.io/">here</a>! </p>
+  <p align="left">• 🚀 Curious to dive deeper into my story <strong>?</strong> Get to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know me better <a href="https://vaishnavilugade.github.io/">here</a>! </p>
 <h1></h1>
 
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
