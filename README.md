@@ -19,7 +19,7 @@
  
   
  <p align="left"> • 🖥️ Always intrested in <strong>Coding</strong> & new learnings.</p>
-  <p align="left">• 🚀 Know more about me  <a href="https://vaishnavilugade.github.io/">here</a>! </p>
+  <p align="left">• 🚀 Know more about me <strong> <a href="https://vaishnavilugade.github.io/">here</a></strong>! </p>
 <h1></h1>
 
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
@@ -67,6 +67,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavilugade" width="37%" alt="vaishnavi's Top Languages">
 
 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilugade&" alt="vaishnavilugade" width="60%" ><br><br><br><br><br><br><br><br><br><br>
 
 
 
