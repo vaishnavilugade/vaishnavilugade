@@ -14,12 +14,13 @@
   <p align="left"> • 🌱 I'm Currently <strong>learning</strong> Something <strong>cool.</strong></p>
   <p align="left">• 💬 Ask me about <strong> Java , Python , HTML , CSS , SQL.</strong></p>
   <p align="left"> • 😄 Pronouns : <strong>she / her / hers</strong></p>
+   <p align="left">• 🚀 Know more about me <strong> <a href="https://vaishnavilugade.github.io/">here</a></strong>! </p>
  <p align="left">• 🔭 Currently Working on <strong>Cancer Detection Using ML.</strong></p>
 
  
   
  <p align="left"> • 🖥️ Always intrested in <strong>Coding</strong> & new learnings.</p>
-  <p align="left">• 🚀 Know more about me <strong> <a href="https://vaishnavilugade.github.io/">here</a></strong>! </p>
+ 
 <h1></h1>
 
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
