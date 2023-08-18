@@ -14,7 +14,7 @@
   <p align="left"> • 🌱 I'm Currently <strong>learning</strong> Something <strong>cool.</strong></p>
   <p align="left">• 💬 Ask me about <strong> Java , Python , HTML , CSS , SQL.</strong></p>
   <p align="left"> • 😄 Pronouns : <strong>she / her / hers</strong></p>
-   <p align="left">• 🚀 Know more about me <strong> <a href="https://vaishnavilugade.github.io/">here !</a></strong> </p>
+   <p align="left">• 🚀 Know more about me <strong> <a href="https://vaishnavilugade.github.io/">here </a></strong> !</p>
  <p align="left">• 🔭 Currently Working on <strong>Cancer Detection Using ML.</strong></p>
 
  
