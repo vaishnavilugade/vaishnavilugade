@@ -1,58 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi<img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Vaishnavi Lugade.</h1>
 
 <p align="center">
@@ -123,7 +68,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavilugade" width="37%" alt="vaishnavi's Top Languages">
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavilugade&" alt="vaishnavilugade" width="60%" ><br><br><br><br><br><br><br><br><br><br>
+
 
 
 
