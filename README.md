@@ -4,8 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=vaishnavilugade&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavilugade" /> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vaishnavilugade?label=Followers&style=social"> •
   <a href="https://user-badge.committers.top/india_private/vaishnavilugade"><img src="https://user-badge.committers.top/india_private/vaishnavilugade.svg"></a>  •
-  <img src="https://img.shields.io/github/stars/vaishnavilugade?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{vaishnavilugade}" alt="Github Visit Count"/>
+  <img src="https://img.shields.io/github/stars/vaishnavilugade?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 <img align="right" alt="Coding" Width="500" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" height="305" width="48px"/>
 
