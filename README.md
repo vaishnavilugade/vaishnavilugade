@@ -58,7 +58,9 @@
  <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://tse3.mm.bing.net/th?id=OIP.H8U_xMCC16OzD9EwvXg64gHaHa&pid=Api&P=0" alt="vscode" width="50" height="50"/></a>  &nbsp;&nbsp;&nbsp;
 <a href="https://css.com" target="_blank" rel="noreferrer"> <img class="img" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" alt="css" width="90" height="50"/> </a>&nbsp;&nbsp;   &nbsp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img class="img" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github" width="50" height="50"/>    </a> &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://blog.streamlit.io/content/images/size/w1000/2021/03/logomark-color.png" alt="vscode" width="50" height="40"/></a>
+   <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://blog.streamlit.io/content/images/size/w1000/2021/03/logomark-color.png" alt="vscode" width="60" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://tse4.mm.bing.net/th?id=OIP.vfM_5nuzjcO4fP6SCdJsAQHaG8&pid=Api&P=0&h=180" alt="vscode" width="50" height="50"/></a>
+
 </p>
 
 
