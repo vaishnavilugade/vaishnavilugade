@@ -41,7 +41,7 @@
 
 <h1> </h1>
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > LANGUAGES AND TOOLS:</h3>
-<p align="left">&nbsp;&nbsp;<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp
+<p align="left">&nbsp;&nbsp;<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img class="img" src="https://media.giphy.com/media/wHqbMCQGVJlQI/giphy.gif" alt="android" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img class="img" src="https://tse3.mm.bing.net/th?id=OIP.Xa0BEkwl0Zx4qnY9lMbD7gHaHa&pid=Api&P=0&h=180" alt="android" width="60" height="50"/></a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/> </a>   &nbsp;&nbsp;&nbsp;
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>  &nbsp;&nbsp;&nbsp;
