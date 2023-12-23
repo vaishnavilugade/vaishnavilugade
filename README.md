@@ -51,7 +51,7 @@
 <a href="https://css.com" target="_blank" rel="noreferrer"> <img class="img" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css" width="60" height="50"/> </a>&nbsp;&nbsp;   &nbsp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img class="img" src="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="github" width="50" height="50"/>    </a> &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://blog.streamlit.io/content/images/size/w1000/2021/03/logomark-color.png" alt="vscode" width="60" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://tse4.mm.bing.net/th?id=OIP.vfM_5nuzjcO4fP6SCdJsAQHaG8&pid=Api&P=0&h=180" alt="vscode" width="50" height="50"/></a>
+  <!--   <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://tse4.mm.bing.net/th?id=OIP.vfM_5nuzjcO4fP6SCdJsAQHaG8&pid=Api&P=0&h=180" alt="vscode" width="50" height="50"/></a> -->
 
 </p>
 
