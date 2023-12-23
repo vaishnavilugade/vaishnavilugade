@@ -35,7 +35,7 @@
               <a href="https://www.hackerearth.com/@vaishnavilugade" target="_blank" rel="noreferrer"><img class="img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vscode" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <a href="https://leetcode.com/vaishnavilugade/" target="_blank"><img class="set"   src="https://tse2.mm.bing.net/th?id=OIP.L2Jfuatqty2XAIUqYnr_pgHaHa&pid=Api&P=0" alt="@vaishnavilugade" height="50" width="50"  /> </a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <a href="" target="_blank"><img class="set" src="https://tse3.mm.bing.net/th?id=OIP.rIY0MF5A8EoNIVkTrakKKgHaHa&pid=Api&P=0" alt="@vaishnavilugade" height="50" width="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="https://www.codeforces.com/profile/vaishnavilugade" target="_blank"><img class="set"  src="https://lh3.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=s180" alt="@vaishnavilugade" height="50" width="50" /> </a>&nbsp;&nbsp;
+              <a href="https://www.kaggle.com/vaishnavilugade" target="_blank"><img class="set"  src="https://tse3.mm.bing.net/th?id=OIP.-Z0A1a16i6g_uiYCnbl8mgHaHa&pid=Api&P=0&h=180" alt="@vaishnavilugade" height="50" width="50" /> </a>&nbsp;&nbsp;
 </p>
 
 <h1> </h1>
