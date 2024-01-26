@@ -28,7 +28,7 @@
 
 <p align="left">
   &nbsp;&nbsp;<a href="https://twitter.com/vaishnavilugade" target="_blank" rel="noreferrer"> <img class="img" src="https://media.tenor.com/2vXPlIhxIvgAAAAC/twitter-logo.gif" alt="go" width="60" height="60"/> </a>   &nbsp;&nbsp;&nbsp;
-   <a href="https://linkedin.com/in/linkedin.com/in/vaishnavilugade" target="_blank" rel="noreferrer"> <img class="img" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="html5" width="71" height="63"/> </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/vaishnavilugade/" target="_blank" rel="noreferrer"> <img class="img" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="html5" width="71" height="63"/> </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://www.codechef.com/users/vaishnvilugade" target="_blank" rel="noreferrer"> <img  src="https://soumyadipghorai.github.io/images/coding_profile/codechef.png" alt="java" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
         <a href="https://medium.com/@vaishnavilugade" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mysql" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
            <a href="https://www.hackerrank.com/vaishnavilugade" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="python" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
