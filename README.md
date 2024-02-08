@@ -49,9 +49,9 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img class="img" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bac5a6f3-7da6-428a-876a-083bae453a5c/d6qw809-4735186b-d16f-491d-987e-53178cc6beec.gif" alt="python" width="50" height="50"/> </a>  &nbsp; &nbsp;&nbsp;&nbsp;
  <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="vscode" width="50" height="50"/></a>  &nbsp;&nbsp;&nbsp;
 <a href="https://css.com" target="_blank" rel="noreferrer"> <img class="img" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css" width="60" height="50"/> </a>&nbsp;&nbsp;   &nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img class="img" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="github" width="60" height="50"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://blog.streamlit.io/content/images/size/w1000/2021/03/logomark-color.png" alt="vscode" width="60" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!--   <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://tse4.mm.bing.net/th?id=OIP.vfM_5nuzjcO4fP6SCdJsAQHaG8&pid=Api&P=0&h=180" alt="vscode" width="50" height="50"/></a> -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img class="img" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="github" width="55" height="50"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://blog.streamlit.io/content/images/size/w1000/2021/03/logomark-color.png" alt="vscode" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!--   <a href="https://vscode.org" target="_blank" rel="noreferrer"><img class="img" src="https://tse4.mm.bing.net/th?id=OIP.vfM_5nuzjcO4fP6SCdJsAQHaG8&pid=Api&P=0&h=180" alt="vscode" width="50" height="40"/></a> -->
 
 </p>
 
