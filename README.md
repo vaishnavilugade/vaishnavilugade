@@ -6,8 +6,11 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vaishnavilugade?label=Followers&style=social"> •
   <a href="https://user-badge.committers.top/india_private/vaishnavilugade"><img src="https://user-badge.committers.top/india_private/vaishnavilugade.svg"></a>  •
   <img src="https://img.shields.io/github/stars/vaishnavilugade?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
+  
 </p>
 <img align="right" alt="Coding" Width="500" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" height="305" width="48px"/>
+
+
 
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > ABOUT ME:</h3>
 
@@ -22,6 +25,12 @@
   
  <p align="left"> • 🖥️ Always intrested in <strong>Coding</strong> & new learnings.</p>
  
+<h1></h1>
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONTRIBUTION GRAPH:</h3>
+
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavilugade&bg_color=white&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h1></h1>
 
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
